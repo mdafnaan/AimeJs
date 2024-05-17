@@ -40,6 +40,6 @@ h2 span{
     position: absolute;
     height: 100px;
     width: 50px;
-    box-shadow: 10px  10px 50px rbga(0,0,0,0.2);
-    background-color:  hsl(240, 31%, 67%);
+    box-shadow: black;
+    background-color:   hsl(240, 43%, 13%);
 }
